@@ -1,1 +1,0 @@
-# Exercise5_2_.py
